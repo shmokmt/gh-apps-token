@@ -1,6 +1,6 @@
 # gh-apps-token
 
-The CLI tool wrapped around bradleyfalzon/ghinstallation/v2.
+The CLI tool wraps bradleyfalzon/ghinstallation/v2.
 
 ## Usage
 
