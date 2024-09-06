@@ -1,6 +1,6 @@
 module github.com/shmokmt/gh-apps-token
 
-go 1.22.4
+go 1.23.1
 
 require github.com/bradleyfalzon/ghinstallation/v2 v2.11.0
 
